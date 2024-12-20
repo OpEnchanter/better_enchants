@@ -1,0 +1,5 @@
+name: better_enchants
+version: '${project.version}'
+main: pro.mclol.better_enchants.BetterEnchants
+api-version: '1.21.4'
+bootstrapper: pro.mclol.better_enchants.Bootstrap
